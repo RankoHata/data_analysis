@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# some csv file large than 100MB
+
+/data/Pixiv/pixiv_daily_rank_base.csv
+/data/Pixiv/pixiv_daily_rank_tag.csv
