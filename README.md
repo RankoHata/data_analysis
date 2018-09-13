@@ -28,7 +28,14 @@ Some pictures of the processed data.
 ### pixiv_daily_rank_3.ipynb
 
 从csv文件中加载数据，绘制Pixiv日榜占比图。
+
 ![](data_img/pixiv_daily_rank_1.png)
+
+### pixiv_daily_rank_4.ipynb
+
+根据参数，对特定tag占比进行绘图
+
+![](data_img/pixiv_daily_rank_2.png)
 
 ## Update Records
 
@@ -47,3 +54,7 @@ Some pictures of the processed data.
 #### Add data img
 
 制作了一张2010-01-01到2018-05-05的Pixiv日榜特定标签占比图
+
+### 2018-9-13
+
+将标签占比绘图包装为函数，方便使用
